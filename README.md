@@ -7,4 +7,4 @@ Linguagens utilizadas: HTML, CSS e Javascript
 
 link do site: https://f84tpb.csb.app
 
-Projeto realizado seguindo os passos do "Desafio Driven Education", escola de tecnologia EaD.
+Projeto realizado seguindo os passos do Desafio Programando Na Prática da escola Driven Education.
