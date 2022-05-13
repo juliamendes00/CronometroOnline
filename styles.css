@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  margin: 60px;
+  flex-direction: column;
+}
+
+.start {
+  background-color: #134db0;
+  font-size: 17px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 4px 12px;
+}
+
+.stop {
+  background-color: #4078da;
+}
+
+button:hover {
+  background-color: #7ca1ec;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 80px;
+  color: white;
+}
+
+input {
+  font-size: 17px;
+}
